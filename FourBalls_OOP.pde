@@ -1,7 +1,7 @@
 public class FourBalls_OOP extends PApplet{
-  public static final int Height=640;
+  public static final int Height=480;
   public static final int Diameter=10;
-  public static final int Width=480;
+  public static final int Width=640;
 
   int x1,x2,x3,x4=0;  
   Ball b1;
